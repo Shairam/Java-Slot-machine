@@ -1,0 +1,53 @@
+.buttons {
+	-fx-border-radius: 5.0;
+	-fx-background-color: #DFB951;
+	
+	
+}
+
+.pane{
+    -fx-background-image: url("file:bg.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 600.0 500.0;
+    -fx-background-position: center center;
+    
+}
+
+.pane1{
+    -fx-background-image: url("file:bgf.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 600.0 500.0;
+    -fx-background-position: center center;
+    
+}
+
+
+.pane2{
+    -fx-background-image: url("file:bgf.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 600.0 500.0;
+    -fx-background-position: center center;
+    
+}
+
+
+
+.text-field{
+    -fx-min-width: 40.0;
+    -fx-min-height: 80.0;
+    -fx-font: 20.0 Pristina;
+}
+
+.btn1 {
+	-fx-font: 20.0 Forte;
+	
+}
+
+.lbl {
+	  -fx-text-fill: white;
+}
+
+.textstat{
+  
+    -fx-font: 20.0 Pristina;
+}

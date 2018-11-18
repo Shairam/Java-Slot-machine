@@ -1,0 +1,3 @@
+Total winnings: 1
+ Total loses: 2
+  Average Credits netted: 0.0
